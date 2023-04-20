@@ -1,0 +1,57 @@
+{
+  "clients": [
+    {
+      "id": 3,
+      "name": "Josue",
+      "phone": 31983913,
+      "email": "josue@juan.com",
+      "company": "code with Ernesto"
+    },
+    {
+      "id": 4,
+      "name": "Miguel",
+      "phone": 319381983,
+      "email": "miguel@juan.com",
+      "company": "code with Ernesto"
+    },
+    {
+      "name": "Claire Redfield",
+      "company": "neto@neto.com",
+      "email": "ernestoserna94@gmail.com",
+      "phone": "123",
+      "note": "Cute sister of chris",
+      "id": 8
+    },
+    {
+      "name": "Ernesto",
+      "company": "Ernesto inc",
+      "email": "netozhener@hotmail.com",
+      "phone": "8342547065",
+      "id": 10
+    },
+    {
+      "name": "Ada Wong",
+      "company": "neto@neto.com",
+      "email": "netozhener@hotmail.com",
+      "phone": "123",
+      "note": "Cute red dress",
+      "id": 11
+    },
+    {
+      "name": "Ashley Graham",
+      "company": "neto@neto.com",
+      "email": "ernestoserna94@gmail.com",
+      "phone": "123",
+      "note": "President Daughter",
+      "id": 12
+    },
+    {
+      "name": "Leon S. Kennedy",
+      "company": "neto@neto.com",
+      "email": "ernestoserna94@gmail.com",
+      "phone": "123",
+      "note": "Anti bio-weapons agent",
+      "id": 13
+    }
+  ]
+}
